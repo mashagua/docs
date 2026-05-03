@@ -202,7 +202,7 @@ Generate UUID v4 unique identifiers for scenarios requiring unique IDs.
 
 ## Memory and Skills
 
-### recall_conversation — Retrieve Conversation History
+### RecallConversation — Retrieve Conversation History
 
 | Attribute | Value |
 |-----------|-------|
